@@ -15,4 +15,4 @@ My name is Fahira, i'm Indonesian and i'm new in programming, Happy Explore!🙌
 <br />
 
 [instagram]: https://instagram.com/fahira_qaulifa
-[linkedin]: https://linkedin.com/in/FahiraQaulifa
+[linkedin]: https://www.linkedin.com/in/fahira-qaulifa-72a64b206
