@@ -7,4 +7,5 @@ My name is Fahira, i'm Indonesian and i'm new in programming, Happy Explore!🙌
 - 👀 I'm interested in medical
 
 ### Connect Me:
-[<img align="left" fahira_qaulifa="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [instagram]:https://instagram.com/fahira_qaulifa
+[<img align="left" alt="fahira_qaulifa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[instagram]: https://instagram.com/fahira_qaulifa
